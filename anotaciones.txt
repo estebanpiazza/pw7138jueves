@@ -12,7 +12,7 @@ Inline:
 
 <3 External: 
 un archivo .css con todas las reglas
-
+Clase 2 y 3
 https://www.w3schools.com/css/css_howto.asp
 https://www.w3schools.com/css/css_colors.asp
 https://www.w3schools.com/css/css_font.asp
@@ -20,3 +20,14 @@ https://www.w3schools.com/css/css_boxmodel.asp
 https://www.w3schools.com/css/css_units.asp
 https://www.w3schools.com/css/css_display_visibility.asp
 https://www.w3schools.com/css/css_positioning.asp
+
+
+
+Clase 4
+https://www.w3schools.com/css/css3_mediaqueries.asp
+https://www.w3schools.com/css/css_pseudo_elements.asp
+https://www.w3schools.com/css/css_pseudo_classes.asp
+https://www.w3schools.com/css/css3_flexbox.asp
+https://flexboxfroggy.com/#es
+https://www.w3schools.com/css/css_grid.asp
+https://grid.layoutit.com
