@@ -11,9 +11,8 @@
     </style>
     <link rel="stylesheet" href="style.css">
 </head>
-
-<body>
-
+<input type="text" placeholder="Ingrese su edad" id="edadUsuario">
+ <button  id="botonSaludar">Hazme click</button>
     <div class="medioDiv" id="masAncho">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur
         commodi animi vero eaque harum quaerat maiores iusto nesciunt perspiciatis, adipisci iure debitis ab accusantium
         aliquid in dicta et. Adipisci!</div>
@@ -21,7 +20,7 @@
         illo deleniti numquam est, illum voluptate ipsa distinctio quidem? Praesentium officia corrupti iste animi,
         architecto optio omnis maxime dolorem!</div>
     <!-- Hero Section -->
-    <h1>Titulo del texto</h1>
+    <h1 id="encabezadoPrincipal">Titulo del texto</h1>
     <h2 style="display:inline">Subtitulo</h2>
     <h6>Encabezado h header</h6>
     <div>Sección de ancho completo</div>otra cosa
@@ -79,5 +78,20 @@
         <div class="col-izq-3"></div>
     </div>
 </body>
+<script>
+//let nombreUsuario = prompt("ingrese su nombre")
+/* document.getElementById("encabezadoPrincipal").innerText ="Hola "+nombreUsuario */
+//document.getElementById("liRojo").style.backgroundcolor = "limegreen" 
 
+//document.body.style.backgroundColor = "red";
+
+let botonSaludo = document.getElementById("botonSaludar")
+function saludoGeneral(){ alert("Hola humano")}
+botonSaludo.addEventListener("click" , function(){
+    let valorNombre = document.getElementById("nombreFormulario").value
+
+} )
+document.getElementById("edadUsuario").value
+</script>
+<script src="script.js"></script>
 </html>
